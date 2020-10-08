@@ -1,0 +1,36 @@
+
+
+Change in Header(Common for all files) :
+
+Line 6, <title> Payment Gateway</title> :
+    Replace "Payment Gateway" to referred name.
+
+Line 39, <a href="index.html" style="color: black;"><img src="assets/img/logo/logo.png" alt="" width="30%" >Payment</a> :
+    For replacing logo - Go to folder Assests-->Img-->Logo and replace the logo here. the file name has to be logo and it has to be png file.
+    For replacing name - Replace the word "Payment"
+    Remove Logo - src="assets/img/logo/logo.png" to src="#" and add <br> prefix to name 
+
+Change Footer( Lines vary in different files)
+
+ Check for this line in <footer> :
+    <a href="index.html"><img src="assets/img/logo/logo.png" alt="" width="40%">Payment gateway</a>
+    Edit the following :
+        For replacing logo - Go to folder Assests-->Img-->Logo and replace the logo here. the file name has to be logo and it has to be png file.
+        For replacing name - Replace the word "Payment"
+        Remove Logo - src="assets/img/logo/logo.png" to src="#"
+
+
+Contact Page :
+
+Line 84, <h3>Hyderabad</h3><p>Habsiguda</p> :
+    Replace the words withouts disturbing tags.
+
+Same format as above for Line 90,96
+
+
+
+Payment Link :
+
+Go to Index Page --> Line 369, <a href="https://payg.in/wallet/quickpay/quickpay;QuickCode=9866514453" class="borders-btn">Get Started</a> :
+    Replace "https://payg.in/wallet/quickpay/quickpay;QuickCode=9866514453" with the new links.
+
